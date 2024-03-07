@@ -56,7 +56,7 @@ const spaceTexture = new THREE.TextureLoader().load('space.jpg')
 scene.background = spaceTexture
 
 // Avatar
-const profileTexture = new THREE.TextureLoader().load('jeff.png')
+const profileTexture = new THREE.TextureLoader().load('profile.png')
 const profile = new THREE.Mesh(
   new THREE.BoxGeometry(3, 3, 3), 
   new THREE.MeshBasicMaterial({ map: profileTexture })
