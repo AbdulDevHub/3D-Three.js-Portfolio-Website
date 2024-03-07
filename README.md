@@ -19,4 +19,4 @@ The website is a single HTML file with the following sections:
 
 ## Usage
 
-To view the website, simply [click the website]()
+To view the website, simply [click the website](https://aquamarine-myriam-97.tiiny.site/)
