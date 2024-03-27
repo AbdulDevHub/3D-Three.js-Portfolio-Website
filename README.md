@@ -2,6 +2,8 @@
 
 This is the source code for Abdul Khan's personal portfolio website. The website includes information about Abdul, his manifesto, projects, accomplishments, and work history. It was built using Vite.js and Three.js.
 
+To view the website, simply [click the website](https://aquamarine-myriam-97.tiiny.site/)
+
 ## Structure
 
 The website is a single HTML file with the following sections:
@@ -19,4 +21,10 @@ The website is a single HTML file with the following sections:
 
 ## Usage
 
-To view the website, simply [click the website](https://aquamarine-myriam-97.tiiny.site/)
+To run the website locally, follow these steps:
+
+1. Clone the repository
+2. Install the dependencies with `npm install`
+3. Start the development server with `npm run dev`
+
+<br>
