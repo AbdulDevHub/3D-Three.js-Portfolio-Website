@@ -1,30 +1,34 @@
-# Abdul Khan's Portfolio Website
+# Simple Three.js Projects
 
-This is the source code for Abdul Khan's personal portfolio website. The website includes information about Abdul, his manifesto, projects, accomplishments, and work history. It was built using Vite.js and Three.js.
+## [Portfolio Website](./Portfolio%20Website)
 
-To view the website, simply [click this link](https://aquamarine-myriam-97.tiiny.site/)
+This is the source code for a template portfolio website. The website includes information about a person, their manifesto, projects, accomplishments, and work history. It was built using Vite.js and Three.js.
 
-## Structure
+<a href="https://aquamarine-myriam-97.tiiny.site/" target="_blank" rel="noreferrer">
+  <img height="400" src="Firebase Add To Cart App/assets/Screenshot.png">
+</a>
 
-The website is a single HTML file with the following sections:
+## [Firebase Add To Cart App](./Firebase%20Add%20To%20Cart%20Web%20App)
 
-- **Header**: Contains the title and a welcome message.
-- **Manifesto**: A section dedicated to Abdul's personal manifesto.
-- **Projects**: Information about Abdul's various projects.
-- **Accomplishments**: Highlights of Abdul's accomplishments.
-- **Work History**: Details about Abdul's past work experiences.
+This is a simple shopping cart progressive web app I made to test out Firebase Realtime Database. It allows users to store their grocery list in the app through the database, making it easy to remember what they need to buy.
 
-## Technologies Used
+### Features
 
-- **Vite.js**: A build tool that aims to provide a faster and leaner development experience for modern web projects. It serves your code via native ES Module imports during development, allowing you to develop your single-page app without a bundler.
-- **Three.js**: A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
+- **Grocery List**: Users can add items to their grocery list.
+- **Realtime Updates**: Changes to the grocery list are updated in real time using Firebase Realtime Database.
+- **Persistent Storage**: The grocery list is stored in the database, so it persists even if the app is closed.
 
-## Usage
+<a href="https://github.com/AbdulDevHub/Simple-AI-Projects/" target="_blank" rel="noreferrer">
+  <img height="400" src="Firebase Add To Cart App/assets/Screenshot.png">
+</a>
 
-To run the website locally, follow these steps:
+## Quick start
 
-1. Clone the repository
-2. Install the dependencies with `npm install`
-3. Start the development server with `npm run dev`
+```
+$ npm install
+$ npm run dev
+````
+
+**_Feel free to explore each folder for more details about each project. Happy Coding!_**
 
 <br>
