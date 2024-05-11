@@ -14,7 +14,7 @@ The website is a single HTML file with the following sections:
 - **Accomplishments**: Highlights of Abdul's accomplishments.
 - **Work History**: Details about Abdul's past work experiences.
 
-<a href="threejs-portfolio-template.netlify.app/" target="_blank" rel="noreferrer">
+<a href="https://threejs-portfolio-template.netlify.app/" target="_blank" rel="noreferrer">
   <img height="400" src="Portfolio Website/public/Screenshot.png">
 </a>
 
