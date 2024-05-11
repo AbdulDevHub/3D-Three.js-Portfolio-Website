@@ -6,7 +6,7 @@ This is the source code for a template portfolio website. The website includes i
 
 ### Structure
 
-The website is a single HTML file with the following sections:
+The website has the following sections:
 
 - **Header**: Contains the title and a welcome message.
 - **Manifesto**: A section dedicated to Abdul's personal manifesto.
