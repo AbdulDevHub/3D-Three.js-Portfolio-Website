@@ -1,5 +1,7 @@
 # Simple Three.js Projects
 
+This repository serves as a collection of various Three.js projects. Each project resides in its own dedicated folder. Here's a brief overview of each project:
+
 ## [Portfolio Website](./Portfolio%20Website)
 
 This is the source code for a template portfolio website. The website includes information about a person, their manifesto, projects, accomplishments, and work history. It was built using Vite.js and Three.js.
